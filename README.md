@@ -126,4 +126,6 @@ Desktop application demonstrating Object-Oriented Programming concepts with Java
 
 ## 💡 My Philosophy
 
-> "The best way to learn is by building projects, solving problems, and continuously improving through curiosity and consistency."
+> "## 💡 My Philosophy
+
+> "Success in software development comes from curiosity, consistency, and the courage to build something meaningful."

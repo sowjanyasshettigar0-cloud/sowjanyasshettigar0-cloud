@@ -102,9 +102,7 @@ Desktop application demonstrating Object-Oriented Programming concepts with Java
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowjanyasshettigar0-cloud&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowjanyasshettigar0-cloud&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sowjanyasshettigar0-cloud&theme=tokyonight)
 

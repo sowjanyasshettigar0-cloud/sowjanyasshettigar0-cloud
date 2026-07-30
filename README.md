@@ -115,15 +115,16 @@ Desktop application demonstrating Object-Oriented Programming concepts with Java
 - 📈 Expanding my Full-Stack Development skills
 
   ## 🤝 Let's Connect
-
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sowjanya-s-shettigar-324933278?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:sowjanyasshettigar0@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome)](YOUR_PORTFOLIO)
+</div>
 
 ## 💡 My Philosophy
 
-> "## 💡 My Philosophy
 
 > "Success in software development comes from curiosity, consistency, and the courage to build something meaningful."

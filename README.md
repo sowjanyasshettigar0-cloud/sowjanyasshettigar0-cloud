@@ -45,22 +45,20 @@ I believe the best way to learn is by building projects, exploring modern techno
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-<br><br>
-
 
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
-<br><br>
+
 
 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
-<br><br>
+
 
 
 
@@ -69,7 +67,7 @@ I believe the best way to learn is by building projects, exploring modern techno
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-<br><br>
+
 
 
 

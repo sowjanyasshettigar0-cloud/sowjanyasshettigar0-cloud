@@ -38,7 +38,7 @@ I believe the best way to learn is by building projects, exploring modern techno
 
 <div align="center">
 
-### Languages
+
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
@@ -47,7 +47,7 @@ I believe the best way to learn is by building projects, exploring modern techno
 
 <br><br>
 
-### Frontend & Backend
+
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
@@ -55,14 +55,14 @@ I believe the best way to learn is by building projects, exploring modern techno
 
 <br><br>
 
-### Databases
+
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
 <br><br>
 
-### AI/ML & Data Science
+
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
@@ -71,7 +71,7 @@ I believe the best way to learn is by building projects, exploring modern techno
 
 <br><br>
 
-### Tools & Platforms
+
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
